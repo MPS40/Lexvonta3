@@ -1,6 +1,6 @@
 {
     "apiUrl" : "https://cinemart.uk/api/",
-    "pushUpdate" : "off",
-    "newPackage" : "",
+    "pushUpdate" : "on",
+    "newPackage" : "com.woodfix.woodflixmoviesu",
     "NetworkAds" : "applovin"
 }
